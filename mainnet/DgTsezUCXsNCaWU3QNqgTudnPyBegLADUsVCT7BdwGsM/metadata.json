@@ -2,10 +2,25 @@
   "name": "Jiocoin",
   "symbol": "JIOCOIN",
   "description": "The official Jiocoin token powered by Solana. Visit jiocoinlive.in for more info.",
-  "image": "https://raw.githubusercontent.com/adanicoinin-dotcom/jiocoin-assets/main/jiocoin%20solana-256x256.png",
+  "image": "https://raw.githubusercontent.com/adanicoinin-dotcom/jiocoin-assets/main/mainnet/DgTsezUCXsNCaWU3QNqgTudnPyBegLADUsVCT7BdwGsM/jiocoin%20solana-256x256.png",
   "external_url": "https://jiocoinlive.in",
   "attributes": [
     { "trait_type": "Blockchain", "value": "Solana" },
     { "trait_type": "Token Type", "value": "Utility" }
-  ]
-} 
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/adanicoinin-dotcom/jiocoin-assets/main/mainnet/DgTsezUCXsNCaWU3QNqgTudnPyBegLADUsVCT7BdwGsM/jiocoin%20solana-256x256.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "35sGWsXFqUMpoJ1PNcQHtpPLuzFMi7LyFU18mCxJt3H5",
+        "share": 100
+      }
+    ]
+  }
+}
