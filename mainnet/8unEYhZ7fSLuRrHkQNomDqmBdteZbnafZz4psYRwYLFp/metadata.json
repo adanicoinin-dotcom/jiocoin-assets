@@ -1,0 +1,15 @@
+{
+  "name": "Jiocoin",
+  "symbol": "JIOCOIN",
+  "description": "Jiocoin (JIOCOIN) is a Solana-based digital token created by jiocoinlive.in for decentralized trading and community development.",
+  "image": "https://raw.githubusercontent.com/adanicoinin-dotcom/jiocoin-assets/main/jiocoin%20solana-256x256.png",
+  "extensions": {
+    "website": "https://jiocoinlive.in",
+    "github": "https://github.com/adanicoinin-dotcom"
+  },
+  "tags": ["utility", "solana", "community"],
+  "creator": {
+    "name": "Jiocoin Team",
+    "address": "35sGWSxFQuM9oJJP1NrQMtp9LuzfMm7LyFUiT8mCKJhS"
+  }
+}
